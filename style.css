@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4 {
+  color: rgb(58, 87, 30);
+  font-size: 30px;
+  margin: 1px;
+  background-color: lightgray;
+}
+
+h1 {
+  color: coral;
+  /* color:tomato; */
+}
+.uppercase {
+  text-transform: uppercase;
+  color: hotpink;
+  background-color: black;
+}
+.important {
+  color: orchid;
+}
+#The-One {
+  color: blue;
+}
+#MrJones {
+  color: brown;
+}
